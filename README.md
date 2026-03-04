@@ -58,7 +58,7 @@ The full project report, including:
 
 is available here:
 
-👉 **[View Full Project Report (PDF)](ELI220_Practical_Assignment_1.pdf)**
+👉 **[View Full Project Report (PDF)](docs/ELI220_Practical_Assignment_1.pdf)**
 
 All implementation code is included in Appendix A of the report.
 
